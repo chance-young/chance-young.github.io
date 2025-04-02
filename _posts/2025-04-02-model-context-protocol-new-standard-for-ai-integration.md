@@ -4,7 +4,7 @@ title: "Model Context Protocol(MCP): AI 통합을 위한 새로운 표준"
 date: 2025-04-02
 categories: [Technology, AI]
 tags: [MCP, AI Integration, Protocol, Development]
-image: https://modelcontextprotocol.io/images/mcp-architecture.png
+image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/mcp-architecture.png
 ---
 
 ## MCP 소개
