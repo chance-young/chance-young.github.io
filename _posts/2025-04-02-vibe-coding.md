@@ -10,8 +10,10 @@ tags:
   - AI코딩
   - 개발문화
 description: "Vibe Coding이 개발자의 감정과 생산성에 미치는 영향을 탐구하고, 이를 통해 더 나은 코딩 환경을 만드는 방법을 알아봅니다."
-image: "/assets/images/posts/vibe-coding-banner.jpg"
+image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/vibe-coding-banner.png
 ---
+
+![Vibe Coding Banner](https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/vibe-coding-banner.png)
 
 # Vibe Coding: 새로운 개발 패러다임의 시작
 
