@@ -10,7 +10,10 @@ tags:
   - Containers
   - DevOps
 description: "Cloud Native 아키텍처의 핵심 원칙과 구성 요소를 살펴보고, 현대 애플리케이션 개발에서의 중요성을 알아봅니다."
+image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/cloud-native-architecture.png
 ---
+
+![Cloud Native Architecture](https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/cloud-native-architecture.png)
 
 ## Cloud Native란 무엇인가?
 
