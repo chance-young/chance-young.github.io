@@ -3,12 +3,12 @@ title: "AI Agent: 차세대 지능형 자동화의 핵심 기술"
 date: 2025-04-02
 categories: [Technology, Artificial Intelligence]
 tags: [AI, Agent, Automation, Digital Transformation]
-image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/ai-agent-automation.png
+image: https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/GettyImages-1435172131.component.xl.ts=1697135064943.jpg
 ---
 
 # AI Agent: 차세대 지능형 자동화의 핵심 기술
 
-![AI Agent Concept](https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/ai-agent-automation.png)
+![AI Agent Concept](https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/GettyImages-1435172131.component.xl.ts=1697135064943.jpg)
 
 ## 1. 소개
 
