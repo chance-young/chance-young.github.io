@@ -3,12 +3,12 @@ title: "AI Agent: 차세대 지능형 자동화의 핵심 기술"
 date: 2025-04-02
 categories: [Technology, Artificial Intelligence]
 tags: [AI, Agent, Automation, Digital Transformation]
-image: https://www.freepik.com/free-vector/artificial-intelligence-concept-landing-page_5060730.jpg
+image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/ai-agent-automation.png
 ---
 
 # AI Agent: 차세대 지능형 자동화의 핵심 기술
 
-![AI Agent Concept](https://www.freepik.com/free-vector/artificial-intelligence-concept-landing-page_5060730.jpg)
+![AI Agent Concept](https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/ai-agent-automation.png)
 
 ## 1. 소개
 
