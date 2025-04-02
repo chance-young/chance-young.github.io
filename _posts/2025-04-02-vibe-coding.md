@@ -1,7 +1,7 @@
 ---
 title: "Vibe Coding: 개발자의 감성과 코딩의 조화로운 만남"
 date: 2025-04-02
-categories: 
+categories:
   - 개발문화
   - 기술트렌드
 tags:
@@ -10,10 +10,8 @@ tags:
   - AI코딩
   - 개발문화
 description: "Vibe Coding이 개발자의 감정과 생산성에 미치는 영향을 탐구하고, 이를 통해 더 나은 코딩 환경을 만드는 방법을 알아봅니다."
-image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/vibe-coding-banner.png
+image: https://images.unsplash.com/photo-1555066931-4365d14bab8c
 ---
-
-![Vibe Coding Banner](https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/vibe-coding-banner.png)
 
 # Vibe Coding: 새로운 개발 패러다임의 시작
 
@@ -51,6 +49,7 @@ def optimize_code_with_ai(code_snippet):
 ### 3. 생산성 향상
 
 최근 연구에 따르면 Vibe Coding을 도입한 팀들은:
+
 - 프로젝트 완료 시간 55% 단축
 - 코드 품질 30% 향상
 - 개발자 만족도 40% 증가
@@ -60,11 +59,13 @@ def optimize_code_with_ai(code_snippet):
 ## Vibe Coding 실천 가이드
 
 1. **개발 환경 최적화**
+
    - 편안한 작업 공간 구성
    - 개인화된 도구 설정
    - 적절한 휴식 시간 확보
 
 2. **AI 도구 활용**
+
    - 코드 제안 기능 활용
    - 자동 코드 리뷰
    - 문서화 자동화
