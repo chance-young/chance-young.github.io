@@ -1,7 +1,7 @@
 ---
 title: "Cloud Native: 현대 애플리케이션 개발의 핵심"
 date: 2025-04-02
-categories: 
+categories:
   - 기술
 tags:
   - Cloud Native
@@ -10,10 +10,8 @@ tags:
   - Containers
   - DevOps
 description: "Cloud Native 아키텍처의 핵심 원칙과 구성 요소를 살펴보고, 현대 애플리케이션 개발에서의 중요성을 알아봅니다."
-image: https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/cloud-native-architecture.png
+image: https://images.unsplash.com/photo-1451187580459-43490279c0fa
 ---
-
-![Cloud Native Architecture](https://raw.githubusercontent.com/chance-young/chance-young.github.io/master/assets/images/posts/cloud-native-architecture.png)
 
 ## Cloud Native란 무엇인가?
 
@@ -22,11 +20,13 @@ Cloud Native는 현대 클라우드 컴퓨팅의 이점을 최대한 활용하�
 ### Cloud Native의 핵심 특징
 
 1. **확장성(Scalability)**
+
    - 수평적 확장이 용이한 설계
    - 자동화된 리소스 관리
    - 탄력적인 서비스 운영
 
 2. **회복력(Resilience)**
+
    - 장애 격리
    - 자동 복구 메커니즘
    - 분산 시스템 설계
@@ -56,13 +56,13 @@ docker run -d -p 8080:8080 myapp:v1
 
 ```yaml
 # 마이크로서비스 구성 예시 (docker-compose.yml)
-version: '3'
+version: "3"
 services:
   auth-service:
     image: auth-service:v1
     ports:
       - "8081:8081"
-  
+
   user-service:
     image: user-service:v1
     ports:
@@ -90,10 +90,10 @@ spec:
         app: myapp
     spec:
       containers:
-      - name: myapp
-        image: myapp:v1
-        ports:
-        - containerPort: 8080
+        - name: myapp
+          image: myapp:v1
+          ports:
+            - containerPort: 8080
 ```
 
 ## Cloud Native 도입 시 고려사항
